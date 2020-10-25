@@ -1,0 +1,8 @@
+﻿1) başla
+2) 1. vize gir
+3) 2. vize gir
+4) final gir
+5) ortalama = (vize1 + vize2) * 0.2 + final * 0.6
+6) eğer ortalama < 60 kaldı
+7) eğer ortalama >= 60 geçti
+8) bitir
